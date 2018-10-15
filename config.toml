@@ -1,4 +1,4 @@
-baseurl = "http://ljuba95.github.io" # Hostname (and path) to the root.
+baseurl = "https://ljuba95.github.io" # Hostname (and path) to the root.
 title = "Home" # Site title.
 theme = "coder" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
